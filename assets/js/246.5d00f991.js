@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[246],{920:function(t,s,n){"use strict";n.r(s);var e=n(3),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v("redis存进去的数据，如果内存满了，即使没过期，依然会有数据被替换掉")])])}),[],!1,null,null,null);s.default=o.exports}}]);
